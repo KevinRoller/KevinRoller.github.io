@@ -10,19 +10,28 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: duc_dang.jpg
+    content: about_duc_dang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>FPT University</p>
+      <p>Ho Chi Minh City, Vietnam</p>
+      <p><a href="https://dnmduc.github.io/">Profile</a></p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: hieu_nguyen.jpg
+    content: about_hieu_nguyen.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Sungkyunkwan University (SKKU)</p>
+      <p>Seoul, South Korea</p>
+      <p><a href="https://ndhieunguyen.github.io/">Profile</a></p>
+  - align: right
+    image: duong_tran.jpg
+    content: about_duong_tran.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Sungkyunkwan University (SKKU)</p>
+      <p>Seoul, South Korea</p>
+      <p><a href="https://duongttr.github.io/">Profile</a></p>
+    
 ---
