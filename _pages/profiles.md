@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: duc_dang.jpg
+    image: duc_dang.png
     content: about_duc_dang.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       <p>Ho Chi Minh City, Vietnam</p>
       <p><a href="https://dnmduc.github.io/">Profile</a></p>
   - align: left
-    image: hieu_nguyen.jpg
+    image: hieu_nguyen.png
     content: about_hieu_nguyen.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -26,7 +26,7 @@ profiles:
       <p>Seoul, South Korea</p>
       <p><a href="https://ndhieunguyen.github.io/">Profile</a></p>
   - align: right
-    image: duong_tran.jpg
+    image: duong_tran.png
     content: about_duong_tran.md
     image_circular: false # crops the image to make it circular
     more_info: >
