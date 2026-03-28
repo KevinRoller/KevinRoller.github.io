@@ -1,9 +1,3 @@
----
-layout: about
-permalink: /people/duc-dang/
-title: Dr. Duc Ngoc Minh Dang
----
-
 **Dr. Duc Ngoc Minh Dang** is a seasoned researcher and educator with expertise spanning wireless networks, deep learning, and Internet of Things.
 
 ## Education & Career

@@ -1,9 +1,3 @@
----
-layout: about
-permalink: /people/duong-tran/
-title: Mr. Duong Thanh Tran
----
-
 **Mr. Duong Thanh Tran** (also known as Jayden) is a Ph.D. student in Integrative Biotechnology at Sungkyunkwan University (SKKU), Korea, and a full-time researcher in the Computational Biology and Bioinformatics Laboratory.
 
 ## Education & Current Position

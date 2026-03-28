@@ -1,9 +1,3 @@
----
-layout: about
-permalink: /people/hieu-nguyen/
-title: Mr. Nguyen Doan Hieu Nguyen
----
-
 **Mr. Nguyen Doan Hieu Nguyen** is a second-year Combined Master's & Ph.D. student in Integrative Biotechnology at Sungkyunkwan University, with a strong academic foundation and passion for computational biology.
 
 ## Education
