@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Kyunghee University Global Campus</p>
-    <p>Ho Chi Minh City, Vietnam</p>
+    <p>Giheung-gu, Yongin-si, Gyeonggi-do, Republic of Korea</p>
     <p>Phone: (+84) 845-604-327</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
