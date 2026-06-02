@@ -1,189 +1,257 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Pham Thanh Trung
+  label: AI Researcher / Engineer
+  email: phmtrung2@gmail.com
+  phone: "+84-845604327"
+  location: Yongin City, Republic of Korea
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    A product-oriented engineer with a strong ability to research AI (ML/DL), robust
+    model training skills, and a visionary architecture design mindset. Excelled at
+    designing, orchestrating, and implementing best-fit AI approaches to deliver
+    production-ready solutions. Practical and highly experienced at conducting
+    technical research to overcome development bottlenecks without trading off the
+    delivery schedule.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: trung-pham-thanh-432798218
+      url: https://www.linkedin.com/in/trung-pham-thanh-432798218
+    - network: Portfolio
+      username: kevinroller.github.io
+      url: https://kevinroller.github.io/
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Yongin
+    region: Gyeonggi-do
+    countryCode: KR
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Kyunghee University Global Campus
+        location: Yongin, Republic of Korea
+        area: Artificial Intelligence
+        studyType: PhD combined program
+        start_date: 2025-02
+        end_date: Present
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: FPT University Ho Chi Minh City
+        location: Ho Chi Minh City, Vietnam
+        area: Artificial Intelligence
+        studyType: Bachelor
+        start_date: 2020-08
+        end_date: 2023-12
+        score: "GPA: 8.87/10"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Excellent graduate thesis (graded 9.2/10)
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Kyunghee University
+        position: AI Researcher - PhD student
+        location: Yongin City, Korea
+        start_date: 2025-02
+        end_date: Present
         highlights:
-          - Relativity
-          - Description 2.
+          - Research on quantum computing and multi-modal LLMs for advanced AI applications.
+          - Reduced VGG19 classification parameters from 3 million to 150 quantum parameters
+            with a 0.025 improvement in image classification accuracy.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: IMT Solutions
+        position: Artificial Intelligence Engineer (Mid-level)
+        location: Ho Chi Minh City, Vietnam
+        start_date: 2024-02
+        end_date: 2025-03
         highlights:
-          - Description 1.
-          - Description 2.
+          - Built LLM, MLOps, computer vision, and agentic AI systems for enterprise clients.
+          - Delivered an agentic KIE system with 94% peak accuracy and over 90% operational
+            accuracy while reducing inference cost by more than 40%.
+          - Automated scanned PDF to DITA conversion, reducing digitization from weeks to
+            6-16 minutes per document.
+          - Improved machine translation BLEU score from 0.74/0.68 to 0.93 using multi-agent
+            NLLB + Wikidata pipelines.
+          - Designed scalable AI architectures and coordinated implementation tasks.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: GMO-Z.com RUNSYSTEM Joint Stock Company
+        position: Artificial Intelligence Research Intern
+        location: Ho Chi Minh City, Vietnam
+        start_date: 2022-11
+        end_date: 2023-02
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+          - Proposed Fourier transform approaches for deepfake and anti-spoofing classification,
+            improving F1 score from 0.86 to 0.91.
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Key Information Extraction from Documents
+        start_date: 2024-05
+        end_date: 2025-02
+        summary: Team leader and main contributor.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Applied multi-modal LLMs to extract invoice numbers, prices, and item names.
+          - Built an Azure Document Intelligence extraction system with CI/CD and layout
+            recognition and labeling workflows.
+          - Reverse-engineered Azure custom model services and added few-shot layout
+            classification and multi-agent processing pipelines.
+          - "Stack: Azure Document Intelligence, LangChain, FastAPI, PyTorch, Hugging Face, Transformers/TGI, Qdrant, Gemini API, OpenAI API, Azure Pipelines, Docker."
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Pali ancient language of the Buddhism Tipitaka machine translator
+        start_date: 2023-02
+        end_date: 2025-09
+        summary: Personal project.
+        highlights:
+          - Mined and curated 120K Pali-English parallel sentence pairs using LaBSE and LASER.
+          - Fine-tuned NLLB-200 (1.3B and 3B) and BGE-M3 for Pali-Vietnamese-English tasks.
+          - Improved BLEU score from 0.5542 to 0.7837 and deployed optimized models.
+          - "Stack: PyTorch, FastAPI, Hugging Face TGI/Transformers, wandb, Docker, LASER, BGE-M3, LangChain, FAISS."
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Research on LLMs to enhance domain-driven neural machine translation
+        start_date: 2024-01
+        end_date: 2025-02
+        summary: Team leader and main contributor.
+        highlights:
+          - Integrated RAG, chain-of-thought, and multi-agent systems to boost translation
+            without retraining at deployment.
+          - Fine-tuned NLLB on domain-specific datasets and expanded the dataset by 60%
+            using automated data mining.
+          - "Stack: FastAPI, Gradio, NLLB, Hugging Face Transformers, LangChain."
+
+      - name: Medical vision Q&A LLM system
+        start_date: 2025-02
+        end_date: 2025-03
+        summary: Personal project.
+        highlights:
+          - Fine-tuned InternVL2.5 on VQA-RAD and built a ChatGPT-style UI with auth and
+            attachments.
+          - Built and deployed LLM serving APIs, microservices, and database-backed backend.
+          - "Stack: FastAPI, Hugging Face TGI/Transformers, SQLAlchemy, PyTorch, Streamlit."
+
+      - name: Quantum machine learning research
+        start_date: 2025-02
+        end_date: Present
+        summary: Main researcher.
+        highlights:
+          - Investigated applying quantum computing capabilities to AI and ML.
+          - Implemented and optimized hybrid quantum-classical deep learning architectures.
+          - "Stack: Pytorch, PennyLane."
+
+      - name: Fortune telling chatbot
+        start_date: 2025-09
+        end_date: 2025-10
+        summary: Personal project.
+        highlights:
+          - Designed a multi-modal RAG knowledge ingestion pipeline to fetch contextual
+            knowledge tailored to user story and persona.
+          - Built a generalized AI framework for tarot, numerology, astrology, and similar
+            domains without domain-specific fine-tuning.
+          - Implemented LLM serving APIs, knowledge databases, ingestion services, user
+            databases, and authentication service.
+          - Built a basic chat interface for end users and CI/CD deployment.
+          - "Stack: FastAPI, Hugging Face TGI, OpenAI APIs, Gemini APIs, Qdrant, SQLAlchemy, Pytorch, Gradio."
+
+      - name: Automated scanned PDF to DITA converter with generative AI
+        start_date: 2024-01
+        end_date: 2025-02
+        summary: Team leader, main contributor.
+        highlights:
+          - Researched multi-modal language models to convert scanned PDF manuals into
+            structured DITA format.
+          - Implemented a multi-agent system to improve extraction accuracy.
+          - "Stack: FastAPI, Pytorch, Gemini API, OpenAI API, LangChain."
+
+      - name: Employee training chatbot system
+        start_date: 2024-02
+        end_date: 2025-05
+        summary: Main contributor.
+        highlights:
+          - Implemented a document ingestion system using multi-modal LLMs to structure
+            internal training documents in a vector database.
+          - Built an RAG chatbot with self-hosted LLMs for internal policy Q and A and
+            automatic ingestion of policy updates.
+          - "Stack: FastAPI, Qdrant, Streamlit, Docker."
+
+      - name: Vitexco Exemplar-based Video Colorization using Vision Transformer
+        start_date: 2023-01
+        end_date: 2023-08
+        url: https://huggingface.co/spaces/chronopt-research/SwinTExCo
+        highlights:
+          - Applied vision transformers for video colorization with reference images while
+            maintaining temporal color consistency across frames.
+          - Created large-scale video datasets for training.
+          - Conducted training experiments to optimize model architecture and performance.
+          - Set up training servers and monitored model parameters.
+
+      - name: eKYC modules development
+        start_date: 2022-11
+        end_date: 2023-02
+        summary: Researcher, developer.
+        highlights:
+          - Created and curated large-scale datasets for training eKYC modules.
+          - Designed and applied deep learning architectures to solve eKYC challenges.
+          - "Stack: Pytorch, TensorFlow, OpenCV, MediaPipe, PyVista."
+
+      - name: Cosmetic products recommender system based on facial skin images
+        start_date: 2023-02
+        end_date: 2023-02
+        summary: Team leader, main contributor.
+        highlights:
+          - Built DL submodules for acne detection and classification and skin moisture
+            regression.
+          - Created, preprocessed, and augmented facial skin image datasets.
+          - Quantized models, re-implemented interfaces, and converted models to ONNX for
+            deployment.
+          - Developed a Flutter mobile app and deployed AI APIs and databases.
+          - "Stack: FastAPI, Flutter, Google Cloud Platform, YOLOv8."
+
+      - name: 3D reconstruction with deep learning
+        start_date: 2022-07
+        end_date: 2022-07
+        summary: Team member.
+        highlights:
+          - Built deep-learning 3D reconstruction for environment virtualization and
+            single-camera motion capture.
+          - Implemented facial and body motion capture, blendshape inference, and motion
+            retargeting modules.
+          - Created large-scale 3D datasets for blendshape inference training.
+          - "Stack: Pytorch, TensorFlow, Unreal Engine 4 MetaHuman, Blender."
+
+      - name: Solving eight-queens problem with genetic algorithm
+        start_date: 2017-08
+        end_date: 2017-08
+        summary: Personal project.
+        highlights:
+          - Implemented a custom genetic algorithm framework in Pascal.
+
+    Skills:
+      - name: MLOps and Agentic AI
+        keywords: "LangChain, FastAPI, vLLM, Hugging Face TGI, Docker, Azure Pipelines, Weights & Biases"
+      - name: ML/DL Frameworks
+        keywords: "PyTorch, TensorFlow/Keras, ONNX"
+      - name: Core AI Architectures
+        keywords: "Transformers, CNNs, RNNs, Generative Models, Reinforcement Learning"
+      - name: Quantum Computing
+        keywords: "PennyLane, TorchQuantum"
+      - name: Cloud and HPC Management
+        keywords: "GPU servers (H200, H100, A100, A6000), Azure AI services"
+      - name: Programming Languages
+        keywords: "Python, C/C++, Java, SQL, JavaScript, ReactJS, HTML/CSS"
+
+    Publications:
+      - title: "SwinTExCo: Exemplar-based video colorization using Swin Transformer"
+        authors:
+          - Tran, D. T.
+          - Nguyen, N. D. H.
+          - Pham, T. T.
+          - Tran, P. N.
+          - Vu, T. D. T.
+          - Nguyen, C. T.
+          - Dang, D. N. M.
+        publisher: Expert Systems with Applications
+        releaseDate: 2025
+        url: https://doi.org/10.1016/j.eswa.2024.125437
+
+    Achievements:
+      - bullet: 100% Scholarship at Kyunghee University for PhD combined program.
+      - bullet: Champion prize, FPT Edu Research Festival finale 2023.
+      - bullet: 100% Scholarship at FPT University HCM.
+      - bullet: Third prize, FPT Education Mathematics Olympic 2021.
+      - bullet: Silver medal, Traditional Olympic 30/4 Contest 2018 (informatics).
+
