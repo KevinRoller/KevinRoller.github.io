@@ -13,6 +13,15 @@
         <h6 class="title font-weight-bold">{{ entry.name }}</h6>
       {% endif %}
 
+      {% if entry.start_date or entry.startDate or entry.end_date or entry.endDate %}
+        <small class="text-muted float-right">
+          {% if entry.start_date %}{{ entry.start_date }}{% elsif entry.startDate %}{{ entry.startDate }}{% endif %}
+          {% if entry.end_date or entry.endDate %}
+            – {% if entry.end_date %}{{ entry.end_date }}{% else %}{{ entry.endDate }}{% endif %}
+          {% endif %}
+        </small>
+      {% endif %}
+
       {% if entry.summary %}
         <p>{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
       {% endif %}
