@@ -29,14 +29,14 @@ cv:
   sections:
     Education:
       - institution: Kyunghee University Global Campus
-        location: Yongin, Republic of Korea
+        location: Yongin, Korea
         area: Artificial Intelligence
         studyType: PhD combined program
         start_date: 2025-02
         end_date: Present
 
       - institution: FPT University Ho Chi Minh City
-        location: Ho Chi Minh City, Vietnam
+        location: HCMC, Vietnam
         area: Artificial Intelligence
         studyType: Bachelor
         start_date: 2020-08
@@ -58,7 +58,7 @@ cv:
 
       - company: IMT Solutions
         position: Artificial Intelligence Engineer (Mid-level)
-        location: Ho Chi Minh City, Vietnam
+        location: HCMC, Vietnam
         start_date: 2024-02
         end_date: 2025-03
         highlights:
@@ -73,7 +73,7 @@ cv:
 
       - company: GMO-Z.com RUNSYSTEM Joint Stock Company
         position: Artificial Intelligence Research Intern
-        location: Ho Chi Minh City, Vietnam
+        location: HCMC, Vietnam
         start_date: 2022-11
         end_date: 2023-02
         highlights:
