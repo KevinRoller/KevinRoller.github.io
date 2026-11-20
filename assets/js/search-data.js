@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/people/";
           },
         },{id: "nav-apps",
-          title: "apps",
+          title: "Apps",
           description: "A list of apps I&#39;ve built and hosted.",
           section: "Navigation",
           handler: () => {
